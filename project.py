@@ -55,7 +55,7 @@ print("the average of the Petal width in column 4 is:", meanfourthcol)
 
 
 #to create a bar chart/histogram diagram of each column
-
+#reference:Programming & Scripting, Matplotlib Pyplot, Ian McLaughlin (https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7)
 import matplotlib.pyplot as pl
 pl.hist(firstcol)
 pl.show()
@@ -69,9 +69,5 @@ pl.show()
 
 pl.hist(fourthcol)
 pl.show()
-
-
-
-
 
 
