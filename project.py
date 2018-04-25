@@ -1,3 +1,4 @@
+
 f = open("data/iris.csv")
 
 
@@ -18,6 +19,19 @@ import numpy
 data = numpy.genfromtxt('data/iris.csv', delimiter=',')
 
 firstcol = data[:,0]
-mean firstcol = numpy.mean(data[:,0])
+meanfirstcol = numpy.mean(data[:,0])
 
-print("average of first column is:", mean firstcol)
+secondcol = data[:,1]
+meansecondcol = numpy.mean(data[:,1])
+
+thirdcol = data[:,1]
+meanthirdcol = numpy.mean(data[:,2])
+
+
+
+#to print the mean of the first column
+print("the average of first column is:", meanfirstcol)
+
+print("the average of the second column is:", meansecondcol)
+
+print("the average of the third column is:", meanthirdcol)
