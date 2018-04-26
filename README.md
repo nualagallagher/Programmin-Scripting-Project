@@ -22,4 +22,4 @@ To run the script to invesigate the Iris Data set you must have already download
 2. Open Visual Studio Code (VSC), this is where the script will be ran. Create a new file in VSC and name in **project.py**. Paste the code into this and then save it (cntrl s).
 3. To open the Integrated Terminal, click **View** and then click the **integrated terminal** or alternatively use the shortcut cntrl +'.
 4. Type **iPython** into the Intergrated Terminal and press enter.
-5. Once you have done this you will **"In [1]:"** appear. Beside this type **run project.py** and press enter. This will return the mean, max and min of each measurement taken (sepal & petal lentgh and width). It will also produce Histograms reflecting same.
+5. Once you have done this you will **"In [1]:"** appears below. Beside this type **run project.py** and press enter. This will return the mean, max and min of each measurement taken (sepal & petal lentgh and width). It will also produce Histograms reflecting same.
