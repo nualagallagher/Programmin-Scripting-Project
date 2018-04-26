@@ -1,6 +1,5 @@
-# Programmin-Scripting-Project
+# Programming-Scripting-Project
 A project on Fisher's Iris Data Set
-
 
 ## Background Information on the Iris Data Set:
 The Iris Flower Data Set also known as Fisher’s Iris Data Set was developed and introduced by Ronald Fisher in 1936. Fisher was a statistician and biologist. The data set consisted of 50 samples from each of the three species of Iris (Iris setosa, Iris virginica and Iris versicolor). The length and the width of the sepals and petals of each sample was measured in centimetres. Based on the results of these four features, Fisher developed a linear discriminant/characteristic model to distinguish the species from each other (developed a characteristic spreadsheet which could be used to distinguish the species from each other).  Fisher first published his data set in his paper “The Multiple Use of Measurements in Taxonomic Problems”. 
@@ -13,7 +12,7 @@ With regards to the collection of the samples, two out of the three species (Iri
 ## References:
 http://rcs.chemometrics.ru/Tutorials/classification/Fisher.pdf 
 https://www.scribd.com/document/369710718/Ornamental-Geophytes-From-Basic-Science-to-Sustainable-Production 
-
+https://help.github.com/articles/basic-writing-and-formatting-syntax/#styling-text
 
 
 ## The Python Script:
