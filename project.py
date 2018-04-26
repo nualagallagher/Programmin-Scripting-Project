@@ -42,6 +42,32 @@ meanthirdcol = numpy.mean(data[:,2])
 fourthcol = data[:,1]
 meanfourthcol = numpy.mean(data[:,3])
 
+#to find the min of each column:
+
+firstcol = data[:,0]
+minfirstcol = numpy.min(data[:,0])
+
+numpy.min(secondcol)
+secondcol = data[:,1]
+minsecondcol = numpy.min(data[:,1])
+
+numpy.min(thirdcol)
+thirdcol = data[:,2]
+minthirdcol = numpy.min(data[:,2])
+
+numpy.min(fourthcol)
+fourthcol = data[:,3]
+minfourthcol = numpy.min(data[:,3])
+
+#to print the mean of the length and width of the sepals and petals of each sample collected by Ronald Fisher
+print("the min of sepal length in column 1 is:", meanfirstcol)
+
+print("the min of the Sepal width in column 2 is:", meansecondcol)
+
+print("the min of the Petal length in column 3 is:", meanthirdcol)
+
+print("the min of the Petal width in column 4 is:", meanfourthcol)
+
 
 #to print the mean of the length and width of the sepals and petals of each sample collected by Ronald Fisher
 print("the average of sepal length in column 1 is:", meanfirstcol)
