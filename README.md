@@ -11,7 +11,9 @@ With regards to the collection of the samples, two out of the three species (Iri
 
 ## References:
 http://rcs.chemometrics.ru/Tutorials/classification/Fisher.pdf 
+
 https://www.scribd.com/document/369710718/Ornamental-Geophytes-From-Basic-Science-to-Sustainable-Production 
+
 https://help.github.com/articles/basic-writing-and-formatting-syntax/#styling-text
 
 
