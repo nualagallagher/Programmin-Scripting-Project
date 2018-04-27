@@ -16,6 +16,9 @@ https://www.scribd.com/document/369710718/Ornamental-Geophytes-From-Basic-Scienc
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/#styling-text
 
+https://matplotlib.org/users/pyplot_tutorial.html
+
+
 
 ## The Python Script:
 To run the script to invesigate the Iris Data set you must have already downloaded Visual Studio Code (https://code.visualstudio.com/) and Python (https://anaconda.org/anaconda/python). You must also download the Iris data set (https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) and save the file as **Iris.csv**.
