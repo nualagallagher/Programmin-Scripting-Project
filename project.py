@@ -150,5 +150,3 @@ pl.subplots_adjust(top=0.95, bottom=0.1, left=0.10, right=0.95, hspace=0.40,
                     wspace=0.35)
 
 pl.show()
-
-
