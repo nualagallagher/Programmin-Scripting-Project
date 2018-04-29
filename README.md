@@ -11,10 +11,10 @@ With regards to the collection of the samples, two out of the three species (Iri
 To run the script to invesigate the Iris Data set you must have already downloaded Visual Studio Code (https://code.visualstudio.com/) and Python (https://anaconda.org/anaconda/python). You must also download the Iris data set (https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) and save the file as **Iris.csv**.
 
 1. Please find the script in the file project.py within the Programmin & Scripting Project Depository. Copy this code.
-2. Open Visual Studio Code (VSC), this is where the script will be ran. Create a new file in VSC and name in **project.py**. Paste the code into this and then save it (cntrl s).
+2. Open Visual Studio Code (VSC), this is where the script will be run. Create a new file in VSC and name in **project.py**. Paste the code into this and then save it (cntrl s).
 3. To open the Integrated Terminal, click **View** and then click the **integrated terminal** or alternatively use the shortcut cntrl +'.
 4. Type **iPython** into the Intergrated Terminal and press enter.
-5. Once you have done this you will **"In [1]:"** appears below. Beside this type **run project.py** and press enter. This will return the mean, max and min of each measurement taken (sepal & petal lentgh and width). It will also produce Histograms reflecting same.
+5. Once you have done this, **"In [1]:"** will appear below. Beside this type **run project.py** and press enter. This will return the mean, max and min of each measurement taken (sepal & petal lentgh and width). It will also produce Histograms reflecting same.
 
 
 ## Conclusion:
